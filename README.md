@@ -14,7 +14,7 @@
 <h2>Setup Instructions</h2>
 <ol>
     <li>Clone the repository to your local machine:
-        <pre><code>git clone https://github.com/yourusername/yourrepository.git</code></pre>
+        <pre><code>git clone https://github.com/BereketZz/Orinson-Tech-task1.git</code></pre>
     </li>
     
   <li>Install the required dependencies:
