@@ -1,4 +1,4 @@
-<h1>Backend Development Task - Orinson Technologies</h1>
+<h1>Orinson Technologies Backend Development Task 1 - Authentication</h1>
 
 <h2>Project Overview</h2>
 <p>This project is a backend service for user authentication, including registration and login functionality. The backend is built using the following technologies:</p>
